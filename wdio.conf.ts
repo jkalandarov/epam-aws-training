@@ -25,7 +25,7 @@ export const config: Options.Testrunner = {
     // Level of logging verbosity: trace | debug | info | warn | error | silent
     logLevel: 'warn',
     bail: 0,
-    baseUrl: 'http://34.235.111.208/',
+    baseUrl: 'http://ec2-54-146-36-47.compute-1.amazonaws.com',
     waitforTimeout: 20000,
     connectionRetryTimeout: 120000,
     connectionRetryCount: 1,

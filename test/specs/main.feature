@@ -6,5 +6,5 @@ Feature: Test public and private instances
     Then I should see json response to have following properties and values
       | property          | value       |
       | availability_zone | us-east-1a  |
-      | private_ipv4      | 10.0.64.10  |
+      | private_ipv4      | 10.0.71.176  |
       | region            | us-east-1   |
